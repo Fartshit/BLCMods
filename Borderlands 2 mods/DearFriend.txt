@@ -1,0 +1,19 @@
+#<Dear Friend>
+
+	#<Description>
+		
+		By Fartshit.mov
+
+		Changes the Chere-amie to have it's English translated name
+
+	#<Description>
+
+	#<Code>
+		
+		set GD_Weap_SniperRifles.Name.Title.Title__Unique_Chere-amie:AttributePresentationDefinition_8 NoConstraintText I am delighted, where is the library?
+
+		set GD_Weap_SniperRifles.Name.Title.Title__Unique_Chere-amie PartName Dear Friend
+	
+	#</Code>
+
+#</Dear Friend>
